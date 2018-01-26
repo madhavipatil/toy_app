@@ -18,7 +18,7 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'jquery-rails', '4.3.1'
 
-gem 'nokogiri', '~> 1.8.1
+gem 'nokogiri', '~> 1.8.1'
 
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
